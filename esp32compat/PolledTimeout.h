@@ -27,7 +27,7 @@
 
 #include <Arduino.h>
 
-namespace esp32
+namespace esp32poll
 {
 
 
